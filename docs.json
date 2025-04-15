@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Professor Gabriel Ramos",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#010e20",
+    "light": "#daa520",
+    "dark": "#5b0202"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -18,7 +18,8 @@
             "pages": [
               "introduction",
               "quickstart",
-              "development"
+              "development",
+              "brand-kit"
             ]
           },
           {
@@ -58,12 +59,12 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
+          "anchor": "Documentação",
           "href": "https://mintlify.com/docs",
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Community",
+          "anchor": "Comunidade",
           "href": "https://mintlify.com/community",
           "icon": "slack"
         },
@@ -82,8 +83,8 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "label": "Suporte",
+        "href": "mailto:contato@professorgabrielramos.com.br"
       }
     ],
     "primary": {
@@ -94,9 +95,9 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "x": "https://x.com/profgabrielramos",
+      "github": "https://github.com/profgabrielramos",
+      "linkedin": "https://linkedin.com/in/profgabrielramos"
     }
   }
 }
